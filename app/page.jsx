@@ -69,7 +69,7 @@ export default function Home() {
               <div>maczxc@gmail.com</div>
             </div>
             <div>
-              <span className="opacity-0">socials</span>
+              <span className="opacity-40">socials</span>
               <div className="flex flex-row gap-5">
                 <div>
                   <a href="https://www.instagram.com/creativemarc_/">
