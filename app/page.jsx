@@ -9,18 +9,16 @@ export default function Home() {
   ];
   return (
     <div>
-      {/*
       <div id="navbar" className="font-light z-10">
         <div className="mx-[10px] lg:mx-[50px] flex flex-row justify-between py-6">
           <div>creativemarc</div>
           <div className="flex flex-row gap-10">
-            <div>about</div>
             <div className="z-10">
               <a href="https://linktr.ee/creativemarc">contact</a>
             </div>
           </div>
         </div>
-      </div>*/}
+      </div>
       <div
         id="wrapper"
         className="mx-[10px] lg:mx-[50px] flex flex-col gap-[50px] lg:gap-[200px]"
@@ -67,11 +65,11 @@ export default function Home() {
           </h1>
           <div className="flex flex-row justify-between gap-16 self-center md:translate-y-1 lg:translate-y-3 font-light tracking-tight">
             <div>
-              <span className="opacity-40">Contacts:</span>
+              <span className="opacity-40">email</span>
               <div>maczxc@gmail.com</div>
             </div>
             <div>
-              <span className="opacity-0"> socials</span>
+              <span className="opacity-0">socials</span>
               <div className="flex flex-row gap-5">
                 <div>
                   <a href="https://www.instagram.com/creativemarc_/">
